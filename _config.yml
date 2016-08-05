@@ -1,9 +1,20 @@
-layout_spectrum: 0.09342831000685692
+title: Real Estate Photography
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.3424340181518346
 color:
-  brandStrength: 0.9031095979735255
-  lightness: 0.10780625464394689
   saturation: 0.9427681958768517
+  brandStrength: 0.9031095979735255
   rhythmicContrast: 0.06965791317634284
   brandColors:
     - '#595241'
@@ -11,5 +22,6 @@ color:
     - '#FFFFFF'
     - '#ACCFCC'
     - '#8A0917'
+  lightness: 0.1078062546439469
+layout_spectrum: 1
 name: Dan Cook Photography
-title: Real Estate Photography

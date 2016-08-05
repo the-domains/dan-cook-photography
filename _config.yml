@@ -1,4 +1,3 @@
-layout_spectrum: 0.09342831000685692
 typography_spectrum: 0.3424340181518346
 color:
   brandStrength: 0.9031095979735255
@@ -11,5 +10,7 @@ color:
     - '#FFFFFF'
     - '#ACCFCC'
     - '#8A0917'
+layout_spectrum: 0.09342831000685692
 name: Dan Cook Photography
 title: Dan Cook Real Estate Photography
+description: the right first impression

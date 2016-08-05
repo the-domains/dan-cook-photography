@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-05T00:20:24.692Z'
+datePublished: '2016-08-05T00:45:45.798Z'
 sourcePath: _posts/2016-08-04-the-gathering-point-in-most-homes-the-kitchen.md
 author: []
 via: {}
-dateModified: '2016-08-05T00:20:24.480Z'
+dateModified: '2016-08-05T00:45:45.492Z'
 title: ''
 publisher: {}
 description: 'The gathering point in most homes, the kitchen.'
